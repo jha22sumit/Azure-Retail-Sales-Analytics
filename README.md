@@ -7,7 +7,7 @@ An end-to-end retail sales analytics project using Microsoft Azure and Power BI.
 The pipeline ingests a retail sales CSV into Azure Data Lake Storage Gen2, cleans and transforms the data with Azure Databricks/PySpark, queries curated data using Azure Synapse Analytics, and presents business insights through an interactive Power BI dashboard.
 
 ## 🏗️ Architecture
-![image alt](01.ARCHITECTURE/Architecture screenshot.png)  
+![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
 
 ```text
 CSV Sales Data

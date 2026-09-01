@@ -153,34 +153,6 @@ The dashboard helps answer:
 
 Azure managed identities and role-based access control were used during the Azure storage and Databricks configuration.
 
-No credentials, access keys, tokens, or passwords should be committed to GitHub.
-
-## 📁 Suggested Repository Structure
-
-```text
-retail-sales-azure-analytics/
-│
-├── README.md
-├── data/
-│   └── README.md
-├── adf/
-│   └── pipeline-documentation.md
-├── databricks/
-│   ├── data-cleaning.py
-│   └── transformations.py
-├── synapse/
-│   ├── database-setup.sql
-│   ├── openrowset.sql
-│   └── views.sql
-├── powerbi/
-│   ├── Retail-Sales-Dashboard.pbix
-│   └── dashboard-preview.png
-└── docs/
-    ├── architecture.png
-    └── project-notes.md
-```
-
-> Do not upload confidential company data or any credentials, connection strings, access keys, tokens, or passwords to GitHub.
 
 ## 🚀 Project Workflow
 

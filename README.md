@@ -136,7 +136,7 @@ Jan → Feb → Mar → Apr → ... → Dec
 
 The Year slicer allows analysis of monthly performance by year.
 
-![image alt](https://github.com/jha22sumit/Azure-Retail-Sales-Analytics/blob/main/01.ARCHITECTURE/Architecture%20screenshot.png)  
+![image alt](05.POWERBI/Azure-retail_sales_analysis_dashboard screenshot.PNG)  
 
 
 ## 💡 Business Questions
